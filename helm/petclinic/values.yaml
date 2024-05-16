@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: adamlechnos/petclinic
+  repository:
   tag: latest
   pullPolicy: IfNotPresent
 
